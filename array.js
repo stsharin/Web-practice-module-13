@@ -32,3 +32,7 @@ console.log("New Array length: " + friendsAge.length);
 // unshift (adds element to the beginning)
 friendsAge.unshift(30);
 console.log(friendsAge);
+
+// shift (removes element from the beginning)
+friendsAge.shift();
+console.log(friendsAge);
