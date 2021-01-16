@@ -10,3 +10,4 @@ for(var i =0; i< num.length; i++){
     console.log("The elements are: " + element);
 }
 console.log("Length: " + num.length);
+
